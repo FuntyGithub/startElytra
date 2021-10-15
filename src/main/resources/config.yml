@@ -8,7 +8,7 @@ Boost: '1.5'
 
 #GeyserMC support.
 Geysermc:
-  #Prefix that non java edtion players have.
+  #Prefix that non java edtion players have. If everyone get a real elytra instead of the "glidemode" then make it empty ('')
   Prefix: '*'
   #Bedrock players need a elytra in the chest slot.
   Elytra:
