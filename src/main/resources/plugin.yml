@@ -1,0 +1,8 @@
+name: StartElytra
+version: ${project.version}
+main: org.funty.startelytra.Main
+api-version: 1.16
+authors: [Funty]
+
+commands:
+  elytra:

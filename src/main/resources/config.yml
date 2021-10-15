@@ -1,0 +1,32 @@
+Center:
+  X: '0'
+  Y: '0'
+  Z: '0'
+Radius: '7'
+Boost: '1.5'
+
+
+#GeyserMC support.
+Geysermc:
+  #Prefix that non java edtion players have.
+  Prefix: '*'
+  #Bedrock players need a elytra in the chest slot.
+  Elytra:
+    #You can use farbcodes with "§". Example: '§4Bedrock One-way-Elytra'
+    DisplayName: '§4Bedrock One-way-Elytra'
+    #You can use farbcodes with "§". Example: '§4Removing this item from the chest-slot will be punished with a permanent ban'  (by the way, the item cannot be taken out of the chest slot by survival players)
+    Lore: '§4Removing this item from the chest-slot will be punished with a permanent ban'
+  #Messages that are used in GeyserMC support context.
+  Messages:
+    #If the chestplate-slot is not empty. You can use farbcodes with "§". Example: '§cYour "chestplate-slot" must be empty for you to use the starting Elytra.'
+    ChestOccupied: '§cYour "chestplate-slot" must be empty for you to use the starting Elytra.'
+
+
+#General and frequently used messages
+Messages:
+  #if the config was reloaded with the /elytra reload command.
+  Reloaded: '&aThe config.yml was reloaded.'
+  #Message if a player does not have the right permission.
+  NoPermissions: '&4You don´t have Permissions!'
+  #if the sender did just /elytra
+  NotEnoughArgs: '&4Not Enough Arguments!'
