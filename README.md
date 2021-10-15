@@ -9,4 +9,4 @@ Tested in: ``1.17.1``
 | --- | --- |
 | /reload | Realods the config. |
 ## Geysermc support.
-You use any system where bedrock players also can join? The glidemode could be buggy in the Minecraft Bedrock Edtion, so this plugins gives bedrock players a elytra.
+You use any system where bedrock players also can join? The "glidemode" could be buggy in the Minecraft Bedrock Edition, so this plugins gives bedrock players a elytra.
