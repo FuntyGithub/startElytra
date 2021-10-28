@@ -4,6 +4,11 @@ This is a Plugin that allows you to let players glide from the Spawn like in the
 
 Version: ``Minecraft Java Edition``  
 Tested in: ``1.17.1``
+
+## Boost
+Glide mode (java players):  ``Press the key to swap items in hands.`` ``(Default: F)``  
+Elytra mode (bedrock players):  ``Press the key to sneak.`` ``(Default: Shift)``
+
 ## [Commands](https://github.com/FuntyGithub/startElytra/tree/main/src/main/java/org/funty/startelytra/commands)
 | Command | Description |
 | --- | --- |
