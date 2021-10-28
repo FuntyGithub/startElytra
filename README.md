@@ -13,5 +13,5 @@ Elytra mode (bedrock players):  ``Press the key to sneak.`` ``(Default: Shift)``
 | Command | Description |
 | --- | --- |
 | /reload | Realods the config. |
-## Geysermc support.
+## [Geysermc](https://geysermc.org/) support.
 You use any system where bedrock players also can join? The "glidemode" could be buggy in the Minecraft Bedrock Edition, so this plugins gives bedrock players a elytra.
